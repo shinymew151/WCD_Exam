@@ -1,0 +1,7 @@
+com\player\entity\PlayerIndex.class
+com\player\dao\PlayerDAO.class
+com\player\service\PlayerService.class
+com\player\rest\PlayerResource.class
+com\player\entity\Indexer.class
+com\player\servlet\PlayerServlet.class
+com\player\entity\Player.class

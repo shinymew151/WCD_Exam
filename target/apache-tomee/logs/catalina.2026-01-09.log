@@ -1,0 +1,69 @@
+09-Jan-2026 19:55:16.321 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat (TomEE)/9.0.82 (8.0.16)
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server built:          Oct 11 2023 13:15:08 UTC
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.82.0
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 11
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk-17
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke JVM Version:           17.0.12+8-LTS-286
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee
+09-Jan-2026 19:55:16.322 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee
+09-Jan-2026 19:55:16.331 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+09-Jan-2026 19:55:16.331 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+09-Jan-2026 19:55:16.331 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+09-Jan-2026 19:55:16.332 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Xms256m
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Xmx512m
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -XX:MetaspaceSize=128m
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -XX:MaxMetaspaceSize=256m
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee\conf\logging.properties
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee\lib\openejb-javaagent.jar
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee\temp
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee\lib
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+09-Jan-2026 19:55:16.333 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+09-Jan-2026 19:55:16.348 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\ADMIN\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\ADMIN\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\RabbitMQ Server\rabbitmq_server-4.0.5\sbin;C:\Program Files\Calibre2\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Apache\Maven\apache-maven-3.9.11\bin;C:\ffmpeg\ffmpeg-master-latest-win64-gpl\bin;C:\Users\ADMIN\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\ADMIN\AppData\Local\Programs\Python\Python313\;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ADMIN\AppData\Roaming\npm;C:\Users\ADMIN\AppData\Local\GitHubDesktop\bin;C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\ADMIN\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;D:\flutter\bin;C:\Users\ADMIN\.bun\bin;.]
+09-Jan-2026 19:55:16.698 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+09-Jan-2026 19:55:16.904 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+09-Jan-2026 19:55:16.916 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+09-Jan-2026 19:55:17.013 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB https://tomee.apache.org/
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Fri Jan 09 19:55:17 ICT 2026
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2023 (C) Apache TomEE Project, All Rights Reserved.
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.16
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20231029
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 12:20
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee
+09-Jan-2026 19:55:17.014 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee
+09-Jan-2026 19:55:17.017 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@21a21c64
+09-Jan-2026 19:55:17.020 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+09-Jan-2026 19:55:17.052 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee\conf\tomee.xml'
+09-Jan-2026 19:55:17.098 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+09-Jan-2026 19:55:17.100 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+09-Jan-2026 19:55:17.103 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+09-Jan-2026 19:55:17.104 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+09-Jan-2026 19:55:17.138 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+09-Jan-2026 19:55:17.198 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+09-Jan-2026 19:55:17.296 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+09-Jan-2026 19:55:17.500 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+09-Jan-2026 19:55:17.530 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+09-Jan-2026 19:55:17.530 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+09-Jan-2026 19:55:17.530 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+09-Jan-2026 19:55:17.530 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+09-Jan-2026 19:55:17.530 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [1394] milliseconds
+09-Jan-2026 19:55:17.566 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+09-Jan-2026 19:55:17.566 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+09-Jan-2026 19:55:17.582 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+09-Jan-2026 19:55:17.582 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.82 (8.0.16)]
+09-Jan-2026 19:55:17.596 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application archive [C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee\webapps\player-evaluation.war]
+09-Jan-2026 19:55:17.601 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /player-evaluation
+09-Jan-2026 19:55:17.603 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee\webapps\player-evaluation.war
+09-Jan-2026 19:55:17.775 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracted path: C:\Users\ADMIN\Desktop\player-evaluation\target\apache-tomee\webapps\player-evaluation
+09-Jan-2026 19:55:17.775 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
